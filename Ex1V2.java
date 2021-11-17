@@ -25,3 +25,4 @@ public class Ex1V2 {
     }
 
 }
+System.out.println(‘Hola, Sóc <el teu DAVID JORDA’);
